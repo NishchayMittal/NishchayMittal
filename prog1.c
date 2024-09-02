@@ -11,5 +11,6 @@ int main ()
     scanf("%f",&t);
     SI = p*r*t/100;
     printf("The Simple Interest is :%f",SI);
+    int a=10;
     return 0;
 }
